@@ -1,4 +1,5 @@
 SysAdmin replacer for BrProekt Workplace
 
 Changelog:
-Create project
+1. Create project
+2. Added numbers to readme
